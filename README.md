@@ -1,4 +1,3 @@
-[!MasterHead(https://miro.medium.com/max/12032/0*DLa8yczafz-nI31s)]
 <h1 align="center">Hi 👋, I'm Robin Sarade</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
